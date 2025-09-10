@@ -1,0 +1,10 @@
+{
+  "accentColor": "",
+  "theme": "obsidian",
+  "interfaceFontFamily": "",
+  "textFontFamily": "FrankRuehl",
+  "baseFontSize": 21,
+  "enabledCssSnippets": [
+    "example"
+  ]
+}

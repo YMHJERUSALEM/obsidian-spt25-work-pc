@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"24d260a0da8173f9","x":-280,"y":-60,"width":250,"height":720,"type":"text","text":"ארץ ישראל"},
+		{"id":"30a67796c0af74ec","x":-30,"y":60,"width":250,"height":60,"type":"text","text":"יעקב בבית לבן"},
+		{"id":"4e46fac3be5a73d3","x":-105,"y":120,"width":250,"height":60,"type":"text","text":"יעקב ועשיו"},
+		{"id":"9b258cfa251fa60f","x":-30,"y":180,"width":250,"height":100,"type":"text","text":"מכירת יוסף והתפרקות בית יעקב"},
+		{"id":"5c40280d0553b13d","x":-30,"y":280,"width":250,"height":60,"type":"text","text":"אפרים ומנשה"},
+		{"id":"a063c62f1976fcab","x":-30,"y":340,"width":250,"height":60,"type":"text","text":"משפחת משה"},
+		{"id":"044fe49e3fa95894","x":-200,"y":-90,"width":250,"height":60,"type":"text","text":"סיפורי האבות"},
+		{"id":"1ca96e69ceb8bde5","x":-105,"y":-150,"width":250,"height":60,"type":"text","text":"משפחת נחור"}
+	],
+	"edges":[]
+}

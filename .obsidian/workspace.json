@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "e88f70f63362033d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d139ca0d3722768",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "157ff0a1c65c8536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/רעיונות שלושת השבועות לספר.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "רעיונות שלושת השבועות לספר"
+            }
+          }
+        ]
+      },
+      {
+        "id": "381bdeb59c15a6a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b45bcec0fd0b9f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/תשעה באב.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "תשעה באב"
+            }
+          },
+          {
+            "id": "83af2f827c7f9a33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "שלושת השבועות - עריכה 1"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a1e0bee209a5fa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d1fe5ed34c7008c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8df2d843e993ee9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "37d260371cc44255",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "אלול",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 396.5044631958008,
+    "collapsed": true
+  },
+  "right": {
+    "id": "1768caaf2499f147",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb83e23b7d9ae8aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f982a23edbd57f",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "a718c2c409e125b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from שלושת השבועות - עריכה 1"
+            }
+          },
+          {
+            "id": "9633fc2784467b5b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0fd61e890502f0e3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "40c1efcb625ef71a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of שלושת השבועות - עריכה 1"
+            }
+          },
+          {
+            "id": "03fdf880e38a0f53",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "publish:Publish changes...": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "graph:Open graph view": false,
+      "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "workspaces-plus:Manage workspaces": false
+    }
+  },
+  "active": "83af2f827c7f9a33",
+  "lastOpenFiles": [
+    "spt25",
+    "backup-spt-25-work-pc",
+    "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
+    "zetale-raki-a/חלל פנוי/Aegean Airlines - Confirmation.pdf",
+    "zetale-raki-a/חלל פנוי",
+    "zetale-raki-a/00 Inbox/Notetaken/ניסיון.md",
+    "zetale-raki-a/00 Inbox/Notetaken",
+    "zetale-raki-a/00 Inbox",
+    "zetale-raki-a/טמפלטים",
+    "zetale-raki-a/לוחות",
+    "zetale-raki-a/מקורות/מחקרים",
+    "zetale-raki-a/Excalidraw",
+    "zetale-raki-a/מקורות",
+    "zetale-raki-a/2023-07-01.md",
+    "zetale-raki-a/2023-08-18.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/231220223514.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/221220224342.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/121222223645.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/121222222615.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/12122221404.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/121222215214.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/121222222052.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/070120234310.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/111222223049.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/11122222321.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תרבות יוון למול דיוניסוס.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תקציר נקודות למסה על העיר.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/שטראוס - הדמוקרטיה הליברלית בגרמניה.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תכלית בתניא.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תמוז - חורבן וקיץ.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תחומין.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תורת שפע וברכה.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תורה ומדינה אצל גדולי ישראל.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תורה ומדינה.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תוקידידס - כתיבת היסטוריה.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/תורה ומדינה - ראשי פרקים, מערכה טרגית.md",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על יהודי אמריקה.jpg",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על יהודי אמריקה המשך.jpg",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על גורל ישראל.jpg",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/IMG_1059.jpg",
+    "zetale-raki-a/צעטלע שבתוך הצעלטע/IMG_1035.jpg",
+    "zetale-raki-a/מקורות/מסילת_ישרים.gif",
+    "zetale-raki-a/מקורות/Pasted image 20231203170824.png",
+    "zetale-raki-a/מקורות/Pasted image 20230924093356.png",
+    "zetale-raki-a/מקורות/Pasted image 20231019151638.png",
+    "zetale-raki-a/מקורות/Pasted Image 20230630142624_116.png",
+    "zetale-raki-a/לוחות/עיר.canvas",
+    "zetale-raki-a/לוחות/סדנא ליועצי שרים טיוטה.canvas",
+    "zetale-raki-a/לוחות/מפת לשכת שר.canvas",
+    "Untitled.canvas",
+    "משפחה.canvas"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"f4bc8f97c878c1fe","x":361,"y":142,"width":250,"height":60,"type":"text","text":"קולה של רומי"},
+		{"id":"96526208bdbc881b","x":287,"y":298,"width":250,"height":60,"type":"text","text":"in a new york minute"},
+		{"id":"c02587c9bbe5dea8","x":611,"y":238,"width":250,"height":60,"type":"text","text":"the rise of the city"},
+		{"id":"0ce1ce71b3f4e2e5","x":655,"y":406,"width":250,"height":60,"type":"text","text":"עירוב שימושים"},
+		{"id":"07644fc315c4a98f","x":111,"y":466,"width":250,"height":60,"type":"text","text":"ירושלים עיר הקודש, עיר קדושה"},
+		{"id":"3976f097b4c9e9b3","x":361,"y":604,"width":250,"height":60,"type":"text","text":"המעבר של המשכן אל העיר מן הכפר"},
+		{"id":"c4e719810fbc95b6","x":-178,"y":466,"width":250,"height":60,"type":"text","text":"תושב\"ע כמהלך עירוני"},
+		{"id":"9fd8576c8ed9e4cf","x":-243,"y":604,"width":250,"height":60,"type":"text","text":"נושאי כלים כעירוניות"},
+		{"id":"a5c1142c45cb71e3","x":905,"y":544,"width":250,"height":60,"type":"text","text":"אברהם כבורח מן העיר"},
+		{"id":"741ef1d43b393b2e","x":780,"y":742,"width":250,"height":60,"type":"text","text":"ויבנו ערי מסכנות לפרעה"},
+		{"id":"ece913ddb47e01e2","x":162,"y":802,"width":250,"height":60,"type":"text","text":"שכן בן חמור לעומת חנוך בן קין"}
+	],
+	"edges":[
+		{"id":"e3319671dbeb5a20","fromNode":"c4e719810fbc95b6","fromSide":"bottom","toNode":"9fd8576c8ed9e4cf","toSide":"top"}
+	]
+}

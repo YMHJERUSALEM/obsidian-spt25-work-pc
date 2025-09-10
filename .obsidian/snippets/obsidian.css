@@ -1,0 +1,99 @@
+---
+cssclass: dashboard
+banner: "![[Lambo_Wallpaper.png]]"
+banner_y: 0.616
+banner_x: 0.5
+banner_lock: true
+---
+
+<iframe name="digital-clock" src="https://htmlpreview.github.io/?https://github.com/ashwinjadhav818/obsidian-dashboard-clock/blob/main/index.html" height=300 width=300></iframe>
+
+
+```button
+name  Daily Note
+type command
+action Periodic Notes: Open daily note
+class button-daily-note
+```
+```button
+name  Weekly Note
+type command
+action Periodic Notes: Open weekly note
+class button-weekly-note
+```
+```button
+name  Banner
+type command
+action Banners: Add/Change banner with local image
+class button-change-banner
+```
+```button
+name  Switcher+
+type command
+action Quick Switcher++: Open Symbols for the active editor
+class button-run-quickadd
+```
+```button
+name  New Note
+type command
+action QuickAdd: 📝New Note
+class button-new-note
+```
+```button
+name  Journal
+type command
+action QuickAdd: 🖋 Journals
+class button-journal-quickadd
+```
+```button
+name  Inputs
+type command
+action QuickAdd: 📥 Inputs
+class button-input-quickadd
+```
+```button
+name  Thought
+type command
+action QuickAdd: 💭 Thought
+class button-thought-quickadd
+```
+```button
+name Projects
+type link
+action link
+```
+```button
+name Aura
+type link
+action <link>
+```
+
+<h1 class="dashboard-title" 
+	style="animation: textColorTransition 5s linear infinite; font-family: Noto Serif; font-size: 45px; text-align: center; opacity: 0.6">Welcome Back</h1>
+
+---
+
+## Tasks
+```tasks
+not done 
+(due today) 
+path includes Journal 
+sort by priority 
+sort by scheduled 
+hide due date
+```
+## Quick Links
+- Main list
+	- sublists
+	- sublists
+	- sublists
+
+- Main list 1
+	- sublists
+	- sublists
+	- sublists
+
+- Main list 2
+	- sublists
+	- sublists
+	- sublists
