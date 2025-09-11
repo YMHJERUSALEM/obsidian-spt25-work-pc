@@ -101,6 +101,16 @@
               "icon": "lucide-search",
               "title": "Search"
             }
+          },
+          {
+            "id": "d63031409085ea73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ],
         "currentTab": 1
@@ -197,8 +207,19 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "368c68ff3d911b28",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -221,11 +242,12 @@
       "graph:Open graph view": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "workspaces-plus:Manage workspaces": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "83af2f827c7f9a33",
   "lastOpenFiles": [
+    "צעטלע שבתוך הצעלטע/יד הרב נסים מתנאל.md",
     "spt25",
     "backup-spt-25-work-pc",
     "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
@@ -238,7 +260,6 @@
     "zetale-raki-a/לוחות",
     "zetale-raki-a/מקורות/מחקרים",
     "zetale-raki-a/Excalidraw",
-    "zetale-raki-a/מקורות",
     "zetale-raki-a/2023-07-01.md",
     "zetale-raki-a/2023-08-18.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/231220223514.md",
