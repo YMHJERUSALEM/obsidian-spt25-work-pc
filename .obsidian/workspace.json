@@ -4,62 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8d139ca0d3722768",
+        "id": "32f1308d6c4e2396",
         "type": "tabs",
         "children": [
           {
-            "id": "157ff0a1c65c8536",
+            "id": "8e3c58dad85b2853",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "צעטלע שבתוך הצעלטע/רעיונות שלושת השבועות לספר.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "רעיונות שלושת השבועות לספר"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
-      },
-      {
-        "id": "381bdeb59c15a6a9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b45bcec0fd0b9f7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "צעטלע שבתוך הצעלטע/תשעה באב.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "תשעה באב"
-            }
-          },
-          {
-            "id": "83af2f827c7f9a33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "שלושת השבועות - עריכה 1"
-            }
-          }
-        ],
-        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5044631958008,
-    "collapsed": true
+    "width": 396.5044631958008
   },
   "right": {
     "id": "1768caaf2499f147",
@@ -223,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,12 +200,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "83af2f827c7f9a33",
+  "active": "8e3c58dad85b2853",
   "lastOpenFiles": [
+    "צעטלע שבתוך הצעלטע/ופרצת.md",
+    "צעטלע שבתוך הצעלטע/ופרצת מסמך מכין אחרי עריכה ספטמבר 25.md",
+    "מקורות/ופרצת אג'נדת התנעה ספט 25.pdf",
+    "מקורות/ופרצת (1).png",
+    "צעטלע שבתוך הצעלטע/תשעה באב.md",
+    "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
     "צעטלע שבתוך הצעלטע/יד הרב נסים מתנאל.md",
     "spt25",
     "backup-spt-25-work-pc",
-    "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
     "zetale-raki-a/חלל פנוי/Aegean Airlines - Confirmation.pdf",
     "zetale-raki-a/חלל פנוי",
     "zetale-raki-a/00 Inbox/Notetaken/ניסיון.md",
@@ -259,7 +219,6 @@
     "zetale-raki-a/טמפלטים",
     "zetale-raki-a/לוחות",
     "zetale-raki-a/מקורות/מחקרים",
-    "zetale-raki-a/Excalidraw",
     "zetale-raki-a/2023-07-01.md",
     "zetale-raki-a/2023-08-18.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/231220223514.md",
@@ -279,10 +238,6 @@
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תמוז - חורבן וקיץ.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תחומין.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תורת שפע וברכה.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תורה ומדינה אצל גדולי ישראל.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תורה ומדינה.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תוקידידס - כתיבת היסטוריה.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תורה ומדינה - ראשי פרקים, מערכה טרגית.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על יהודי אמריקה.jpg",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על יהודי אמריקה המשך.jpg",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על גורל ישראל.jpg",
@@ -292,7 +247,6 @@
     "zetale-raki-a/מקורות/Pasted image 20231203170824.png",
     "zetale-raki-a/מקורות/Pasted image 20230924093356.png",
     "zetale-raki-a/מקורות/Pasted image 20231019151638.png",
-    "zetale-raki-a/מקורות/Pasted Image 20230630142624_116.png",
     "zetale-raki-a/לוחות/עיר.canvas",
     "zetale-raki-a/לוחות/סדנא ליועצי שרים טיוטה.canvas",
     "zetale-raki-a/לוחות/מפת לשכת שר.canvas",
