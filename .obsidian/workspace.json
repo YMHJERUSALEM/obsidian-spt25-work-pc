@@ -11,12 +11,55 @@
             "id": "8e3c58dad85b2853",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/רעיונות שלושת השבועות לספר.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "רעיונות שלושת השבועות לספר"
             }
           }
         ]
+      },
+      {
+        "id": "a51664db67e4604b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da73759d4774d71e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/רעיונות שלושת השבועות לספר.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "רעיונות שלושת השבועות לספר"
+            }
+          },
+          {
+            "id": "b1a37b8c79bd67df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "שלושת השבועות - עריכה 1"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5044631958008
+    "width": 396.5044631958008,
+    "collapsed": true
   },
   "right": {
     "id": "1768caaf2499f147",
@@ -174,12 +218,12 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,14 +244,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e3c58dad85b2853",
+  "active": "b1a37b8c79bd67df",
   "lastOpenFiles": [
+    "צעטלע שבתוך הצעלטע/רעיונות שלושת השבועות לספר.md",
+    "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
+    "צעטלע שבתוך הצעלטע/רעיונות סרטונים.md",
+    "צעטלע שבתוך הצעלטע/מסכת הוריות בקיאות.md",
     "צעטלע שבתוך הצעלטע/ופרצת.md",
     "צעטלע שבתוך הצעלטע/ופרצת מסמך מכין אחרי עריכה ספטמבר 25.md",
     "מקורות/ופרצת אג'נדת התנעה ספט 25.pdf",
     "מקורות/ופרצת (1).png",
     "צעטלע שבתוך הצעלטע/תשעה באב.md",
-    "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
     "צעטלע שבתוך הצעלטע/יד הרב נסים מתנאל.md",
     "spt25",
     "backup-spt-25-work-pc",
@@ -236,8 +283,6 @@
     "zetale-raki-a/צעטלע שבתוך הצעלטע/שטראוס - הדמוקרטיה הליברלית בגרמניה.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תכלית בתניא.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תמוז - חורבן וקיץ.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תחומין.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תורת שפע וברכה.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על יהודי אמריקה.jpg",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על יהודי אמריקה המשך.jpg",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על גורל ישראל.jpg",
