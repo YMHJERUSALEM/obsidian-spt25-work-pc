@@ -4,78 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "32f1308d6c4e2396",
+        "id": "4ca52c851b11d207",
         "type": "tabs",
         "children": [
           {
-            "id": "8e3c58dad85b2853",
+            "id": "8a4f7b4899673558",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "צעטלע שבתוך הצעלטע/רעיונות שלושת השבועות לספר.md",
+                "file": "צעטלע שבתוך הצעלטע/ערב ערב פסח התשפה.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "רעיונות שלושת השבועות לספר"
-            }
-          },
-          {
-            "id": "f32bb884ae33da56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "צעטלע שבתוך הצעלטע/פורים.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "פורים"
+              "title": "ערב ערב פסח התשפה"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "a51664db67e4604b",
+        "id": "1a4d565714500fe3",
         "type": "tabs",
         "children": [
           {
-            "id": "da73759d4774d71e",
+            "id": "83e8a5a8c5cb044c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "צעטלע שבתוך הצעלטע/רעיונות שלושת השבועות לספר.md",
+                "file": "צעטלע שבתוך הצעלטע/התחלת סיכום תשפה.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "רעיונות שלושת השבועות לספר"
-            }
-          },
-          {
-            "id": "b1a37b8c79bd67df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "שלושת השבועות - עריכה 1"
+              "title": "התחלת סיכום תשפה"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,12 +75,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "אלול",
+                "query": "tag:#כתיבות_זורמות_תשפה",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTimeReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -133,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5044631958008,
-    "collapsed": true
+    "width": 396.5044631958008
   },
   "right": {
     "id": "1768caaf2499f147",
@@ -144,32 +111,6 @@
         "id": "fb83e23b7d9ae8aa",
         "type": "tabs",
         "children": [
-          {
-            "id": "89f982a23edbd57f",
-            "type": "leaf",
-            "state": {
-              "type": "footnotes",
-              "state": {
-                "file": "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md"
-              },
-              "icon": "lucide-file-signature",
-              "title": "Footnotes"
-            }
-          },
-          {
-            "id": "a718c2c409e125b3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from שלושת השבועות - עריכה 1"
-            }
-          },
           {
             "id": "9633fc2784467b5b",
             "type": "leaf",
@@ -238,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,12 +200,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1a37b8c79bd67df",
+  "active": "83e8a5a8c5cb044c",
   "lastOpenFiles": [
+    "צעטלע שבתוך הצעלטע/ערב ערב פסח התשפה.md",
+    "צעטלע שבתוך הצעלטע/אחרי המעגל.md",
+    "צעטלע שבתוך הצעלטע/ערב פורים משולש התשפה.md",
+    "צעטלע שבתוך הצעלטע/התחלת סיכום תשפה.md",
+    "צעטלע שבתוך הצעלטע/כב שבט התשפה.md",
+    "צעטלע שבתוך הצעלטע/למחרת אירוסין של גוגו.md",
+    "צעטלע שבתוך הצעלטע/למחרת סדנא עם קווה שפרן.md",
+    "צעטלע שבתוך הצעלטע/מוצאי שבת קודש מקץ תשפה.md",
+    "צעטלע שבתוך הצעלטע/מוצאי שבת וישלח תשפה.md",
+    "צעטלע שבתוך הצעלטע/התבגרות - משחקים.md",
     "צעטלע שבתוך הצעלטע/פורים.md",
+    "צעטלע שבתוך הצעלטע/רעיונות שלושת השבועות לספר.md",
     "צעטלע שבתוך הצעלטע/שלושת השבועות - עריכה 1.md",
     "צעטלע שבתוך הצעלטע/ספר חזרה בתשובה.md",
-    "צעטלע שבתוך הצעלטע/רעיונות שלושת השבועות לספר.md",
     "צעטלע שבתוך הצעלטע/רעיונות סרטונים.md",
     "צעטלע שבתוך הצעלטע/מסכת הוריות בקיאות.md",
     "צעטלע שבתוך הצעלטע/ופרצת.md",
@@ -289,16 +239,6 @@
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/231220223514.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/221220224342.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/121222223645.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/121222222615.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/12122221404.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/121222215214.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/121222222052.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/070120234310.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/111222223049.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תניא/11122222321.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תרבות יוון למול דיוניסוס.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/תקציר נקודות למסה על העיר.md",
-    "zetale-raki-a/צעטלע שבתוך הצעלטע/שטראוס - הדמוקרטיה הליברלית בגרמניה.md",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על יהודי אמריקה.jpg",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על יהודי אמריקה המשך.jpg",
     "zetale-raki-a/צעטלע שבתוך הצעלטע/ברל כצנלסון על גורל ישראל.jpg",
