@@ -11,12 +11,49 @@
             "id": "e67c04f7b33c3424",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/ראש השנה.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ראש השנה"
+            }
+          },
+          {
+            "id": "b4f0a81ebd4931bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/יום הכפורים.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "יום הכפורים"
+            }
+          },
+          {
+            "id": "7c764161c3e53af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "צעטלע שבתוך הצעלטע/כי תבוא.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "כי תבוא"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -48,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5044631958008
+    "width": 396.5044631958008,
+    "collapsed": true
   },
   "right": {
     "id": "1768caaf2499f147",
@@ -154,11 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "צעטלע שבתוך הצעלטע/כי תבוא.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from כי תבוא"
             }
           }
         ],
@@ -166,7 +205,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +227,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e67c04f7b33c3424",
+  "active": "7c764161c3e53af7",
   "lastOpenFiles": [
-    "צעטלע שבתוך הצעלטע/פרשת וילך.md",
+    "צעטלע שבתוך הצעלטע/יום הכפורים.md",
     "צעטלע שבתוך הצעלטע/ראש השנה.md",
+    "צעטלע שבתוך הצעלטע/פרשת וילך.md",
     "צעטלע שבתוך הצעלטע/אלול.md",
     "צעטלע שבתוך הצעלטע/מקורות לוח שנה.md",
     "צעטלע שבתוך הצעלטע/ישראל מונין ללבנה.md",
@@ -214,7 +255,6 @@
     "צעטלע שבתוך הצעלטע/י בתמוז התשפה.md",
     "צעטלע שבתוך הצעלטע/ה תמוז התשפה.md",
     "צעטלע שבתוך הצעלטע/מוצאי שבת קודש קרח התשפה.md",
-    "צעטלע שבתוך הצעלטע/ערב שבת קרח התשפה.md",
     "מקורות/ופרצת אג'נדת התנעה ספט 25.pdf",
     "מקורות/ופרצת (1).png",
     "spt25",
