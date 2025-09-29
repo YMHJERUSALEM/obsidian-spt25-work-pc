@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "פורים",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.39515402641308506,
-  "close": false
+  "scale": 0.10332319556085307,
+  "close": true
 }
